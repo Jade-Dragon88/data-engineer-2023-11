@@ -1,4 +1,4 @@
-dbt_shop:
+ dbt_shop:
     outputs:
         dev:
             type: postgres
